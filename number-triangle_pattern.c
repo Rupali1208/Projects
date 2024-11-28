@@ -1,3 +1,9 @@
+/*
+
+    Pattern Problem
+*/
+
+
 #include <stdio.h>
 int main()
 {
